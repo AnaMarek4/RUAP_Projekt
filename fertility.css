@@ -1,0 +1,26 @@
+﻿body {
+    background-color: #eaece5;
+    font-family: Arial;
+}
+
+.text {
+    font-family: 'Palatino Linotype';
+    background-color: #d9e2d9;
+    color: #5C4E4E;
+}
+
+.queryText {
+    color: #004445;
+}
+
+.queryOptions {
+    color: #2c786c;
+}
+
+.predictButton {
+    background-color: #004445;
+    padding: 15px 25px;
+    width: 60px;
+    border-radius: 12px;
+}
+

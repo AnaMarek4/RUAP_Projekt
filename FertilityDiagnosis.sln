@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FertilityDiagnosis", "FertilityDiagnosis.csproj", "{EC644FD1-5AD6-4EA6-9839-2F7074B1963E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC644FD1-5AD6-4EA6-9839-2F7074B1963E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC644FD1-5AD6-4EA6-9839-2F7074B1963E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC644FD1-5AD6-4EA6-9839-2F7074B1963E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC644FD1-5AD6-4EA6-9839-2F7074B1963E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7CB4FC6-A7E4-419C-B92A-5478BB9C5ED3}
+	EndGlobalSection
+EndGlobal
